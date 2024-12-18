@@ -1,0 +1,2 @@
+mkdir SnapSphere
+cd SnapSphere
